@@ -1,0 +1,14 @@
+body{
+    padding:20px;
+}
+.card-container{
+    padding:2rem;
+    border:2px solid;
+    border-radius: 10px;
+    text-align: center;
+    background-color: cyan;
+    transition: all 1s;
+}
+.card-container:hover{
+    transform: scale(1.06);
+}
